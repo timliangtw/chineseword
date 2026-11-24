@@ -1,0 +1,1076 @@
+{
+  "original": 600,
+  "unique": 533,
+  "removed": 67,
+  "shape": 267,
+  "sound": 266,
+  "duplicates": [
+    {
+      "word": "簡單",
+      "kind": "shape",
+      "target": "簡",
+      "sources": [
+        {
+          "page": 1,
+          "number": 31,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 4,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "啜飲",
+      "kind": "shape",
+      "target": "啜",
+      "sources": [
+        {
+          "page": 1,
+          "number": 32,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 8,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "淹沒",
+      "kind": "shape",
+      "target": "淹",
+      "sources": [
+        {
+          "page": 1,
+          "number": 33,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 12,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "丟棄",
+      "kind": "shape",
+      "target": "丟",
+      "sources": [
+        {
+          "page": 1,
+          "number": 34,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 16,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "瘀傷",
+      "kind": "shape",
+      "target": "瘀",
+      "sources": [
+        {
+          "page": 1,
+          "number": 35,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 20,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "拆遷",
+      "kind": "shape",
+      "target": "遷",
+      "sources": [
+        {
+          "page": 1,
+          "number": 36,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 24,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "蟬蛻",
+      "kind": "shape",
+      "target": "蛻",
+      "sources": [
+        {
+          "page": 1,
+          "number": 37,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 28,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "傻笑",
+      "kind": "shape",
+      "target": "傻",
+      "sources": [
+        {
+          "page": 1,
+          "number": 38,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 32,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "香脆",
+      "kind": "shape",
+      "target": "脆",
+      "sources": [
+        {
+          "page": 1,
+          "number": 39,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 36,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "鐵門",
+      "kind": "shape",
+      "target": "鐵",
+      "sources": [
+        {
+          "page": 1,
+          "number": 40,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 40,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "水蒸氣",
+      "kind": "shape",
+      "target": "氣",
+      "sources": [
+        {
+          "page": 1,
+          "number": 41,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 44,
+          "year": 113
+        },
+        {
+          "page": 3,
+          "number": 45,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "康乃馨",
+      "kind": "shape",
+      "target": "馨",
+      "sources": [
+        {
+          "page": 1,
+          "number": 42,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 48,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "河東獅吼",
+      "kind": "shape",
+      "target": "獅",
+      "sources": [
+        {
+          "page": 1,
+          "number": 51,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 52,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "雜草叢生",
+      "kind": "shape",
+      "target": "叢",
+      "sources": [
+        {
+          "page": 1,
+          "number": 52,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 56,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "豪情萬丈",
+      "kind": "shape",
+      "target": "豪",
+      "sources": [
+        {
+          "page": 1,
+          "number": 53,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 60,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "心煩意亂",
+      "kind": "shape",
+      "target": "煩",
+      "sources": [
+        {
+          "page": 1,
+          "number": 54,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 64,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "以建民國",
+      "kind": "shape",
+      "target": "以",
+      "sources": [
+        {
+          "page": 1,
+          "number": 55,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 68,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "心心相印",
+      "kind": "shape",
+      "target": "印",
+      "sources": [
+        {
+          "page": 1,
+          "number": 56,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 72,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "刻板印象",
+      "kind": "shape",
+      "target": "刻",
+      "sources": [
+        {
+          "page": 1,
+          "number": 57,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 76,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "訊號中斷",
+      "kind": "shape",
+      "target": "訊",
+      "sources": [
+        {
+          "page": 1,
+          "number": 58,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 80,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "酸鹼中和",
+      "kind": "shape",
+      "target": "鹼",
+      "sources": [
+        {
+          "page": 1,
+          "number": 59,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 84,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "潰不成軍",
+      "kind": "shape",
+      "target": "潰",
+      "sources": [
+        {
+          "page": 1,
+          "number": 60,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 88,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "一望無際",
+      "kind": "shape",
+      "target": "際",
+      "sources": [
+        {
+          "page": 1,
+          "number": 61,
+          "year": 114
+        },
+        {
+          "page": 1,
+          "number": 77,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 92,
+          "year": 113
+        },
+        {
+          "page": 3,
+          "number": 89,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "堅毅不拔",
+      "kind": "shape",
+      "target": "毅",
+      "sources": [
+        {
+          "page": 1,
+          "number": 62,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 96,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "交通順暢",
+      "kind": "shape",
+      "target": "暢",
+      "sources": [
+        {
+          "page": 1,
+          "number": 63,
+          "year": 114
+        },
+        {
+          "page": 2,
+          "number": 100,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "袖手旁觀",
+      "kind": "shape",
+      "target": "袖",
+      "sources": [
+        {
+          "page": 1,
+          "number": 76,
+          "year": 114
+        },
+        {
+          "page": 3,
+          "number": 52,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "異口同聲",
+      "kind": "shape",
+      "target": "異",
+      "sources": [
+        {
+          "page": 1,
+          "number": 78,
+          "year": 114
+        },
+        {
+          "page": 3,
+          "number": 94,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "繩之以法",
+      "kind": "shape",
+      "target": "繩",
+      "sources": [
+        {
+          "page": 1,
+          "number": 79,
+          "year": 114
+        },
+        {
+          "page": 3,
+          "number": 59,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "體無完膚",
+      "kind": "shape",
+      "target": "膚",
+      "sources": [
+        {
+          "page": 1,
+          "number": 80,
+          "year": 114
+        },
+        {
+          "page": 3,
+          "number": 53,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "翻來覆去",
+      "kind": "shape",
+      "target": "覆",
+      "sources": [
+        {
+          "page": 2,
+          "number": 53,
+          "year": 113
+        },
+        {
+          "page": 3,
+          "number": 51,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "菁英",
+      "kind": "sound",
+      "target": "菁",
+      "sources": [
+        {
+          "page": 4,
+          "number": 24,
+          "year": 114
+        },
+        {
+          "page": 6,
+          "number": 18,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "沉溺",
+      "kind": "sound",
+      "target": "溺",
+      "sources": [
+        {
+          "page": 4,
+          "number": 25,
+          "year": 114
+        },
+        {
+          "page": 6,
+          "number": 33,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "番茄",
+      "kind": "sound",
+      "target": "茄",
+      "sources": [
+        {
+          "page": 4,
+          "number": 26,
+          "year": 114
+        },
+        {
+          "page": 6,
+          "number": 23,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "秘書",
+      "kind": "sound",
+      "target": "秘",
+      "sources": [
+        {
+          "page": 4,
+          "number": 27,
+          "year": 114
+        },
+        {
+          "page": 6,
+          "number": 2,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "遠眺",
+      "kind": "sound",
+      "target": "眺",
+      "sources": [
+        {
+          "page": 4,
+          "number": 31,
+          "year": 114
+        },
+        {
+          "page": 6,
+          "number": 31,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "銀行",
+      "kind": "sound",
+      "target": "行",
+      "sources": [
+        {
+          "page": 4,
+          "number": 33,
+          "year": 114
+        },
+        {
+          "page": 5,
+          "number": 5,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "淤泥",
+      "kind": "sound",
+      "target": "淤",
+      "sources": [
+        {
+          "page": 4,
+          "number": 34,
+          "year": 114
+        },
+        {
+          "page": 5,
+          "number": 10,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "負荷",
+      "kind": "sound",
+      "target": "荷",
+      "sources": [
+        {
+          "page": 4,
+          "number": 36,
+          "year": 114
+        },
+        {
+          "page": 5,
+          "number": 20,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "詛咒",
+      "kind": "sound",
+      "target": "詛",
+      "sources": [
+        {
+          "page": 4,
+          "number": 37,
+          "year": 114
+        },
+        {
+          "page": 5,
+          "number": 25,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "寺廟",
+      "kind": "sound",
+      "target": "寺",
+      "sources": [
+        {
+          "page": 4,
+          "number": 39,
+          "year": 114
+        },
+        {
+          "page": 5,
+          "number": 35,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "說服力",
+      "kind": "sound",
+      "target": "說",
+      "sources": [
+        {
+          "page": 4,
+          "number": 41,
+          "year": 114
+        },
+        {
+          "page": 5,
+          "number": 45,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "冰淇淋",
+      "kind": "sound",
+      "target": "淇",
+      "sources": [
+        {
+          "page": 4,
+          "number": 47,
+          "year": 114
+        },
+        {
+          "page": 6,
+          "number": 42,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "喪心病狂",
+      "kind": "sound",
+      "target": "喪",
+      "sources": [
+        {
+          "page": 4,
+          "number": 52,
+          "year": 114
+        },
+        {
+          "page": 5,
+          "number": 60,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "躍躍欲試",
+      "kind": "sound",
+      "target": "躍",
+      "sources": [
+        {
+          "page": 4,
+          "number": 53,
+          "year": 114
+        },
+        {
+          "page": 5,
+          "number": 65,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "罕見疾病",
+      "kind": "sound",
+      "target": "罕",
+      "sources": [
+        {
+          "page": 4,
+          "number": 56,
+          "year": 114
+        },
+        {
+          "page": 5,
+          "number": 80,
+          "year": 113
+        },
+        {
+          "page": 6,
+          "number": 76,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "球藝精湛",
+      "kind": "sound",
+      "target": "湛",
+      "sources": [
+        {
+          "page": 4,
+          "number": 57,
+          "year": 114
+        },
+        {
+          "page": 5,
+          "number": 85,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "早晨露水",
+      "kind": "sound",
+      "target": "露",
+      "sources": [
+        {
+          "page": 4,
+          "number": 58,
+          "year": 114
+        },
+        {
+          "page": 5,
+          "number": 90,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "傳染疾病",
+      "kind": "sound",
+      "target": "染",
+      "sources": [
+        {
+          "page": 4,
+          "number": 59,
+          "year": 114
+        },
+        {
+          "page": 5,
+          "number": 95,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "伶牙俐齒",
+      "kind": "sound",
+      "target": "伶",
+      "sources": [
+        {
+          "page": 4,
+          "number": 60,
+          "year": 114
+        },
+        {
+          "page": 5,
+          "number": 100,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "千里迢迢",
+      "kind": "sound",
+      "target": "迢",
+      "sources": [
+        {
+          "page": 4,
+          "number": 65,
+          "year": 114
+        },
+        {
+          "page": 5,
+          "number": 73,
+          "year": 113
+        },
+        {
+          "page": 6,
+          "number": 61,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "目瞪口呆",
+      "kind": "sound",
+      "target": "瞪",
+      "sources": [
+        {
+          "page": 4,
+          "number": 66,
+          "year": 114
+        },
+        {
+          "page": 6,
+          "number": 87,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "伺機而動",
+      "kind": "sound",
+      "target": "伺",
+      "sources": [
+        {
+          "page": 4,
+          "number": 67,
+          "year": 114
+        },
+        {
+          "page": 6,
+          "number": 97,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "彈指之間",
+      "kind": "sound",
+      "target": "彈",
+      "sources": [
+        {
+          "page": 4,
+          "number": 76,
+          "year": 114
+        },
+        {
+          "page": 6,
+          "number": 52,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "矯枉過正",
+      "kind": "sound",
+      "target": "矯",
+      "sources": [
+        {
+          "page": 4,
+          "number": 79,
+          "year": 114
+        },
+        {
+          "page": 5,
+          "number": 99,
+          "year": 113
+        }
+      ]
+    },
+    {
+      "word": "肌肉痠痛",
+      "kind": "sound",
+      "target": "痠",
+      "sources": [
+        {
+          "page": 4,
+          "number": 89,
+          "year": 114
+        },
+        {
+          "page": 6,
+          "number": 83,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "高樓大廈",
+      "kind": "sound",
+      "target": "廈",
+      "sources": [
+        {
+          "page": 4,
+          "number": 92,
+          "year": 114
+        },
+        {
+          "page": 6,
+          "number": 60,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "出言不遜",
+      "kind": "sound",
+      "target": "遜",
+      "sources": [
+        {
+          "page": 4,
+          "number": 95,
+          "year": 114
+        },
+        {
+          "page": 5,
+          "number": 59,
+          "year": 113
+        },
+        {
+          "page": 6,
+          "number": 71,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "塞牙縫",
+      "kind": "sound",
+      "target": "塞",
+      "sources": [
+        {
+          "page": 5,
+          "number": 44,
+          "year": 113
+        },
+        {
+          "page": 6,
+          "number": 43,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "燜燒鍋",
+      "kind": "sound",
+      "target": "燜",
+      "sources": [
+        {
+          "page": 5,
+          "number": 48,
+          "year": 113
+        },
+        {
+          "page": 6,
+          "number": 41,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "釘書機",
+      "kind": "sound",
+      "target": "釘",
+      "sources": [
+        {
+          "page": 5,
+          "number": 49,
+          "year": 113
+        },
+        {
+          "page": 6,
+          "number": 46,
+          "year": 112
+        }
+      ]
+    },
+    {
+      "word": "琴瑟和鳴",
+      "kind": "sound",
+      "target": "瑟",
+      "sources": [
+        {
+          "page": 5,
+          "number": 67,
+          "year": 113
+        },
+        {
+          "page": 6,
+          "number": 94,
+          "year": 112
+        }
+      ]
+    }
+  ]
+}

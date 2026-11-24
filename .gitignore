@@ -1,0 +1,6 @@
+tmp/
+node_modules/
+.DS_Store
+掃描的文件.pdf
+playwright-report/
+test-results/

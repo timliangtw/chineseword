@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#17695c">
+  <meta name="description" content="字音字形，每次一小步。適合平板的大字複習、錯題練習與模擬考。">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <title>字字小宇宙 · 字音字形複習</title>
+  <link rel="icon" href="./icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="./assets/icon-192.png">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" id="brand"><span class="brand-icon" aria-hidden="true">字</span><span>字字小宇宙<small>每天進步一點點</small></span></a>
+    <button class="icon-button" id="settings-open" aria-label="開啟家長設定">家長設定</button>
+  </header>
+  <div id="storage-warning" class="notice warning" role="status" hidden></div>
+  <main id="app" aria-live="polite"><p class="loading">正在準備你的字字小宇宙…</p></main>
+  <footer class="footer">用自己的速度，把字記牢。<span>進度保存在這個瀏覽器</span></footer>
+  <dialog id="settings" aria-labelledby="settings-title">
+    <div class="dialog-head"><h2 id="settings-title">家長設定</h2><button class="icon-button" id="settings-close" aria-label="關閉設定">關閉</button></div>
+    <p>同一台平板、同一個瀏覽器會自動接續。換裝置前，先匯出進度。</p>
+    <form id="settings-form" class="settings-grid">
+      <label>考試日期<input type="date" id="exam-date" required></label>
+      <label>練習範圍<select id="kind" aria-label="練習範圍"><option value="all">字形＋字音</option><option value="shape">只練字形</option><option value="sound">只練字音</option></select></label>
+      <label>每回合題數<select id="round-size" aria-label="每回合題數"><option value="10">10 題，一小回合</option><option value="20">20 題，多練一點</option></select></label>
+      <label>題目字體<select id="font-size" aria-label="題目字體"><option value="normal">大字</option><option value="large">特大字</option></select></label>
+      <button class="button primary" type="submit">儲存設定</button>
+    </form>
+    <section class="settings-section"><h3>備份與離線使用</h3><div class="button-row"><button class="button secondary" id="export">匯出進度</button><button class="button secondary" id="import">匯入進度</button><button class="button secondary" id="offline">下載離線題庫</button></div><input id="import-file" type="file" accept=".json,application/json" hidden><p id="settings-status" role="status"></p><p class="small">匯入會以備份內容取代此裝置的進度。下載離線題庫後，請用原本的網址開啟；加入主畫面後也請固定使用同一個入口。</p></section>
+    <section class="settings-section"><h3>學習狀況</h3><div id="parent-stats"></div></section>
+    <section class="settings-section"><h3>找題目</h3><input id="search" type="search" placeholder="輸入詞語或國字" aria-label="搜尋題庫"><div id="search-results" class="search-results"></div></section>
+    <details class="settings-section"><summary>排程怎麼安排？</summary><p>答錯約 5 分鐘後再考；猶豫約 12 小時後；獨立答對依熟練度隔 1、3、5 天再考。同一天重複答對不會增加「已記牢」數量；不同日期獨立答對兩次才算記牢，之後答錯就重新確認。</p><p>今日建議新題數會依剩餘題目、實際完成量與考試日期重算。少做會接續，多做會減少後面的負擔。先完成全範圍，再留時間複習；每回合都保留新題名額，避免錯題擠掉尚未看過的題目。</p><p id="deck-info"></p></details>
+  </dialog>
+  <div id="toast" class="toast" role="status" hidden></div>
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
